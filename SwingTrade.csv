@@ -1,4 +1,4 @@
-AMount,Total,SRNO,Date,AveragePrice,BuyORSell,OrHold,Price,TQQQInvest,TOtQty,TQQQInvested,TQQQValues,PL,Adj Close,QQQInvest,QTRY,QQQInvested,QQQValues,PL,Invested,Price,,,,SOXL,10,,,,,
+AMount,Total,SrNo,CloseDate,AveragePrice,BuyORSell,BuySellInd,FundAPrice,FundAInvest,TOtQty,TQQQInvested,TQQQValues,PL,FundBPrice,QQQInvest,QTRY,QQQInvested,QQQValues,PL,Invested,Price,,,,SOXL,10,,,,,
 0,"2,000.00",1,2/6/2017,4.47,B,B,4.59,"1,000.00",217.86,"1,000.00","1,000.00",0.00%,18.36,"1,000.00",54.47,"1,000.00","1,000.00",0.00%,"2,000.00","2,000.00",0.00%,2,,TMF,,"98,956.54","31,396,835.83",,849,849000
 0,"2,000.00",2,2/7/2017,4.51,B,H,4.64,0.00,217.86,"1,000.00","1,010.89",1.09%,18.73,0,54.47,"1,000.00","1,020.15",2.02%,"2,000.00","2,031.05",1.55%,0,,,,"33,000.00","85,000.00",,410,410000
 0,"2,000.00",3,2/8/2017,4.54,B,H,4.66,0.00,217.86,"1,000.00","1,015.25",1.53%,19.49,0,54.47,"1,000.00","1,061.55",6.15%,"2,000.00","2,076.80",3.84%,0,,,,199.87%,36837.45%,,,1259000
